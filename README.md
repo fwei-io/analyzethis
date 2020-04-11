@@ -7,7 +7,7 @@
 * [Installation](#installation)
 * [Configuration ](#configuration )
 * [Supported Environments](#supported-environments)
-* [Sample Code](# Sample Code)
+* [Screenshots](#Screenshots)
 * [License](#license)
 
 
@@ -33,7 +33,7 @@
     3. Android Studio 
     4. Java JDK 1.7 (JDK 1.8 is recommended.)
 
-## Sample Code
+## Screenshots
 After running the app you should see a screen like this:
 
 <img src="app/src/screen_0.PNG" height="534" width="300" style="max-width:100%;">
